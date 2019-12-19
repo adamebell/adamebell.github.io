@@ -8,23 +8,18 @@ tags: intro rambling
 
 summary: The full rules of our tabletop RPG, No Stone Unturned
 
-image: https://lh3.googleusercontent.com/qU2Mr9-Dvu9sJZe_etS_qwOUSl0P3VkdTqiblfoSm8wSc6dWg9MhP-oZOiP3oBan9BVkWIOdgtwMNvhKtmyqcANrjMpBPX74vj_ceMUtrCTNv0QZgX0DQSjEuKZvewrCsE82zK-z4lA=w2400
+image: https://img.itch.zone/aW1nLzE5Nzc3NTgucG5n/original/4%2FpXdG.png
 
 footnotes:
 
-  - 'Insofar as anything posted on the internet can be "tangible".'
-
-  - 'Probably I will have a full write up at some point trying to explore my thoughts on this since I immediately started rambling on the topic.'
-
-  - 'Which means I should probably figure out what the hell I actually want to do with this site.'
-
+  - 'hello world'
 ---
 
-#Part 1: Introduction and Worldbuilding
+##Part 1: Introduction and Worldbuilding
 
 
 
-## Introduction
+### Introduction
 
 
 
@@ -46,7 +41,7 @@ This game can also be played as a one-shot. If you plan to do this, I’d recomm
 
 
 
-##Safety Tools
+###Safety Tools
 
 
 
@@ -62,7 +57,7 @@ Often when we find ourselves in a situation where we're uncomfortable, it can be
 
 
 
-##Worldbuilding
+###Worldbuilding
 
 
 
@@ -104,23 +99,23 @@ Define the scope of the adventures and how far away the other locations in the w
 
 Write down what you establish here so that everyone can access it later. The following questions help guide you in defining your scope, but are not a complete list.
 
-•	How much time passes between adventures?
+* How much time passes between adventures?
 
-•	How long does it take to travel around the world?
+* How long does it take to travel around the world?
 
-•	Is the surrounding area dangerous or easy to traverse?
+* Is the surrounding area dangerous or easy to traverse?
 
-•	Do people generally need to eat and sleep? If so, how often? What do they eat?
+* Do people generally need to eat and sleep? If so, how often? What do they eat?
 
-•	What can you assume that your characters will be carrying? Swords? Guns? Nothing?
+* What can you assume that your characters will be carrying? Swords? Guns? Nothing?
 
-•	What's the general level of technology available to the settlement?
+* What's the general level of technology available to the settlement?
 
-•	How do people get around in this world? Can they fly? Use phones? Teleport?
+* How do people get around in this world? Can they fly? Use phones? Teleport?
 
-•	What’s the day/night schedule like? How often do the seasons change?
+* What’s the day/night schedule like? How often do the seasons change?
 
-•	Can you maintain contact with your home settlement while adventuring?
+* Can you maintain contact with your home settlement while adventuring?
 
 **5. Create scarcities and abundances**
 
@@ -162,7 +157,7 @@ Your world is now built. You should now have a good idea of where your character
 
 
 
-##Creating your characters
+###Creating your characters
 
 Your characters are made up of several different elements. Some of these elements will be decided now, and others will be discovered through play. Take a character sheet and fill out the fields as described below.
 
@@ -212,7 +207,7 @@ Once everyone has finished making a character, go around the table and introduce
 
 
 
-##Danger Levels
+###Danger Levels
 
 The Danger Level gives a guideline for how perilous it should feel to be in an area. Typically, in an area with a higher danger level, you should be assigning Harm Details when players lose rolls more often. Below is a detailed description of how the different danger levels change the tone of a location.
 
@@ -226,7 +221,7 @@ D4.	Most things in the area are hostile to you. The consequences for improperly 
 
 
 
-##Reward Levels
+###Reward Levels
 
 The Reward Level of an area indicates how useful treasures and knowledge gained in an area will be. The below descriptions indicate how easy and useful a location’s reward will be if it’s fully acquired.
 
@@ -240,9 +235,9 @@ R4.	This can move a scarcity to abundance if fully recovered and taken back to t
 
 
 
-#Part 2: Gameplay
+##Part 2: Gameplay
 
-##Game Overview
+###Game Overview
 
 How to Play This Game
 
@@ -272,9 +267,9 @@ If you continue playing after downtime, adventure to a new location. Either flip
 
 
 
-##Details
+###Details
 
-###“Adding Details” in play
+####“Adding Details” in play
 
 When players attempt things that are uncertain, they will make an action roll. The results of this will allow either the player or the Arbiters to add Details to the fiction. Details are just labels to succinctly explain a change in the fiction. For instance, if you were in a fight and your opponent pulled out a knife, you could end up with a detail, Stabbed.
 
@@ -286,7 +281,7 @@ A **scene detail** is a detail that changes the scenery or your tactics, i.e., t
 
 
 
-###Positive vs. Negative Details
+####Positive vs. Negative Details
 
 Details are typically negative or positive. Negative details are often harm details, which indicate damage to a character or item. Positive details are beneficial properties (e.g., Shiny and Sharp for a well-maintained sword).
 
@@ -358,21 +353,21 @@ However, the Arbiters can decide to declare that a stronger person or monster ha
 
 The Action Roll mechanic is in place to determine the results when an action taken by the player character has an uncertain outcome. When a player character tries to do something in one of the below categories, or another situation where the outcome being unclear is interesting, the Action Roll mechanics should be followed.
 
-•	Doing that which a person doesn’t normally do, like climb a difficult surface, pick a lock, etc
+* Doing that which a person doesn’t normally do, like climb a difficult surface, pick a lock, etc
 
-•	Doing something dangerous, like attack a person/creature or jump across a chasm
+* Doing something dangerous, like attack a person/creature or jump across a chasm
 
-•	Looking for a thing or some information that may be difficult to locate, like a secret entrance or the password to enter
+* Looking for a thing or some information that may be difficult to locate, like a secret entrance or the password to enter
 
-•	Calling upon some memory or knowledge that the character might know, but hasn’t yet shown or used
+* Calling upon some memory or knowledge that the character might know, but hasn’t yet shown or used
 
-•	Doing something that could cause harm to the world around them
+* Doing something that could cause harm to the world around them
 
-•	Persuading or convincing another person in the world to do something that they don’t immediately want to do, especially if it’s against their perceived interest
+* Persuading or convincing another person in the world to do something that they don’t immediately want to do, especially if it’s against their perceived interest
 
-•	Avoiding or reacting to some consequence or danger that is imminent
+* Avoiding or reacting to some consequence or danger that is imminent
 
-•	Observing or otherwise interacting with the world to glean information or notice something that’s happening that isn’t immediately obvious. This should only trigger an action roll if it will be interesting for the character to not catch on
+* Observing or otherwise interacting with the world to glean information or notice something that’s happening that isn’t immediately obvious. This should only trigger an action roll if it will be interesting for the character to not catch on
 
 
 
@@ -402,13 +397,13 @@ Anything in the outline in italics happens every time you roll the dice. A hollo
 
 **Before Rolling:**
 
-•	Player states their desired outcome
+* Player states their desired outcome
 
-•	Arbiters choose aspect and state what's most at risk 
+* Arbiters choose aspect and state what's most at risk 
 
-•	Choose Mood and increment Mood Level
+* Choose Mood and increment Mood Level
 
-•	Check details for Aspect Advantage or Disadvantage
+* Check details for Aspect Advantage or Disadvantage
 
 ◦	*Choose or create Relevant Skill*
 
@@ -416,15 +411,15 @@ Anything in the outline in italics happens every time you roll the dice. A hollo
 
 **Roll the dice!**
 
-•	Roll your Aspect Die and Mood Die
+* Roll your Aspect Die and Mood Die
 
 **After Rolling:**
 
 ◦	*Get help. They roll a Mood and raise its level.*
 
-•	Determine the Winning Side and apply Details
+* Determine the Winning Side and apply Details
 
-•	Check for Mood Effects
+* Check for Mood Effects
 
 
 
@@ -444,9 +439,9 @@ First, the Arbiters decide whether this action roll uses Body, Mind, or Heart. B
 
 This decision will decide which die will count for which side when determining the result:
 
-•	If the Character is at risk, the player playing that character will get the Aspect die and the Arbiters will get the Mood die. 
+* If the Character is at risk, the player playing that character will get the Aspect die and the Arbiters will get the Mood die. 
 
-•	If the World is at risk, the player will get the Mood die and the Arbiters get the Aspect die.
+* If the World is at risk, the player will get the Mood die and the Arbiters get the Aspect die.
 
 Player chooses Mood and increments Mood Level
 
@@ -546,10 +541,10 @@ Rolls made with the Mood that you are overloaded with are made at Mood Advantage
 
 Rolls made with other Moods are made at Mood Disadvantage. This could cause you to Overload a different mood. The following rules also apply when choosing a different Mood:
 
-•	Choosing a different Mood to act with will end the Overload regardless of who wins the roll. This should be represented and roleplayed in the fiction.
+* Choosing a different Mood to act with will end the Overload regardless of who wins the roll. This should be represented and roleplayed in the fiction.
 
-•	If you win this roll, clear the checkboxes from the Mood that is no longer overloaded. Describe what it was like for your character to overcome in this way.
+* If you win this roll, clear the checkboxes from the Mood that is no longer overloaded. Describe what it was like for your character to overcome in this way.
 
-•	If you lose this roll, put one of your sentiments at risk by marking the next unchecked checkbox. Describe which sentiment you are affecting and how it happens.
+* If you lose this roll, put one of your sentiments at risk by marking the next unchecked checkbox. Describe which sentiment you are affecting and how it happens.
 
-•	If the roll has a difference of 0, follow the rules for both winning and losing the roll.
+* If the roll has a difference of 0, follow the rules for both winning and losing the roll.
