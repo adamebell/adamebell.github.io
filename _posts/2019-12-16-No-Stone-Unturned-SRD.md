@@ -15,7 +15,7 @@ footnotes:
   - 'hello world'
 ---
 
-##Part 1: Introduction and Worldbuilding
+## Part 1: Introduction and Worldbuilding
 
 
 
@@ -41,7 +41,7 @@ This game can also be played as a one-shot. If you plan to do this, I’d recomm
 
 
 
-###Safety Tools
+### Safety Tools
 
 
 
