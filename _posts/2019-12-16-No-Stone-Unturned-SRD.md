@@ -57,7 +57,7 @@ Often when we find ourselves in a situation where we're uncomfortable, it can be
 
 
 
-###Worldbuilding
+### Worldbuilding
 
 
 
@@ -157,7 +157,7 @@ Your world is now built. You should now have a good idea of where your character
 
 
 
-###Creating your characters
+### Creating your characters
 
 Your characters are made up of several different elements. Some of these elements will be decided now, and others will be discovered through play. Take a character sheet and fill out the fields as described below.
 
@@ -207,7 +207,7 @@ Once everyone has finished making a character, go around the table and introduce
 
 
 
-###Danger Levels
+### Danger Levels
 
 The Danger Level gives a guideline for how perilous it should feel to be in an area. Typically, in an area with a higher danger level, you should be assigning Harm Details when players lose rolls more often. Below is a detailed description of how the different danger levels change the tone of a location.
 
@@ -221,7 +221,7 @@ D4.	Most things in the area are hostile to you. The consequences for improperly 
 
 
 
-###Reward Levels
+### Reward Levels
 
 The Reward Level of an area indicates how useful treasures and knowledge gained in an area will be. The below descriptions indicate how easy and useful a location’s reward will be if it’s fully acquired.
 
@@ -235,9 +235,9 @@ R4.	This can move a scarcity to abundance if fully recovered and taken back to t
 
 
 
-##Part 2: Gameplay
+## Part 2: Gameplay
 
-###Game Overview
+### Game Overview
 
 How to Play This Game
 
@@ -267,9 +267,9 @@ If you continue playing after downtime, adventure to a new location. Either flip
 
 
 
-###Details
+### Details
 
-####“Adding Details” in play
+#### “Adding Details” in play
 
 When players attempt things that are uncertain, they will make an action roll. The results of this will allow either the player or the Arbiters to add Details to the fiction. Details are just labels to succinctly explain a change in the fiction. For instance, if you were in a fight and your opponent pulled out a knife, you could end up with a detail, Stabbed.
 
@@ -281,7 +281,7 @@ A **scene detail** is a detail that changes the scenery or your tactics, i.e., t
 
 
 
-####Positive vs. Negative Details
+#### Positive vs. Negative Details
 
 Details are typically negative or positive. Negative details are often harm details, which indicate damage to a character or item. Positive details are beneficial properties (e.g., Shiny and Sharp for a well-maintained sword).
 
@@ -293,7 +293,7 @@ The result of an action roll determines how many hard details and scene details 
 
 
 
-###Harm Details
+### Harm Details
 
 Harm details track the physical and mental toll that adventure takes on an explorer's body. Any details added by the Arbiters that make it difficult to continue adventuring in the same way should be counted here. Each player character has the capacity for 4 harm details before they get the Overcome detail. 
 
@@ -303,7 +303,7 @@ Harm details can be addressed by using the Recover action during Downtime. When 
 
 
 
-###Overcome
+### Overcome
 
 When a player records their 4th Harm Detail, they get the **Overcome** detail. Circle this on your character sheet.
 
@@ -313,7 +313,7 @@ Decide on a case by case basis what this means for your table. Depending on the 
 
 
 
-###Recording Details
+### Recording Details
 
 When hard details are assigned to your character, record them in the details section on your character sheet. If the Arbiters say that the detail counts as a harm detail, record it on one of the 4 lines designated for Harm Details.
 
@@ -323,7 +323,7 @@ Also remember to consider all of your details when resolving Action Rolls, as ce
 
 
 
-###Applying Details
+### Applying Details
 
 Don’t be afraid to think bigger than the action being tested when applying Details. A seemingly small action can have ripples throughout the land. Perhaps a player loses a roll to convince somebody in a new town that they mean no harm. You can apply Details in several ways. Here are two examples.
 
@@ -331,11 +331,11 @@ You could apply the scene detail Uncooperative Population to inform the player t
 
 You could also apply the hard detail Wanted to them - you hear shouts outside the building where you are having this conversation. A protest has formed to kick out the intruders. What do you do?
 
-###Recording Scene Details
+### Recording Scene Details
 
 Make sure to keep track of the scene details added to a location (such as Uncooperative Population from the example above). This will help you maintain a record of what the adventurers have done to a location, which will aid in determining other scene details and also when Rolling for Complications in the future. Additionally, Scene Details should almost always be accompanied by a tick on the Collateral Clock. This is discussed in detail later.
 
-###Adding Details to NPCs or creatures
+### Adding Details to NPCs or creatures
 
 If a character gets in a fight or similar situation where an NPC or creature is standing in their way, it will often only take one or two Details for the player to handle the situation.
 
@@ -347,9 +347,9 @@ However, the Arbiters can decide to declare that a stronger person or monster ha
 
 
 
-##Action Rolls
+## Action Rolls
 
-###When to call for an Action Roll
+### When to call for an Action Roll
 
 The Action Roll mechanic is in place to determine the results when an action taken by the player character has an uncertain outcome. When a player character tries to do something in one of the below categories, or another situation where the outcome being unclear is interesting, the Action Roll mechanics should be followed.
 
@@ -371,7 +371,7 @@ The Action Roll mechanic is in place to determine the results when an action tak
 
 
 
-###When not to call for an action roll
+### When not to call for an action roll
 
 Don’t call for an action roll for every little thing that the characters try to do. If the stakes are low or the character is known to be good at the action they are attempting, let them succeed.
 
@@ -379,13 +379,13 @@ Action rolls should come into play when the outcome is not obvious, or when the 
 
 Don’t call for an action roll in order any time the characters try to get any information from the world. Most questions and requests to observe the world should be freely answered. Only use the roll when interesting consequences  are a possibility.
 
-###“Passing and Failing”
+### “Passing and Failing”
 
 Losing an Action roll doesn’t necessarily mean that your character failed in what they were trying to do. Often, the hard and scene details applied by the Arbiters will heavily complicate the action, but it should never lead you to a dead end. The question to answer after any Details are applied should always be, “What do you do?”
 
 
 
-##Action Roll Steps
+## Action Roll Steps
 
 The next page outlines the steps to follow when the Arbiters call for an action roll, with the following pages explaining each step in more detail. 
 
@@ -425,7 +425,7 @@ Anything in the outline in italics happens every time you roll the dice. A hollo
 
 
 
-###Player states their desired outcome
+### Player states their desired outcome
 
 State what your character is attempting to accomplish. This should be the logical follow through of the action that you were roleplaying when the Arbiters called for an action roll. Now is the time to flesh out what you want to have happen with this course of action. This gets everyone at the table on the same page with what's at stake and what success would look like.
 
@@ -435,7 +435,7 @@ First, the Arbiters decide whether this action roll uses Body, Mind, or Heart. B
 
 
 
-###The Arbiters then decide whether the consequences of this action are more likely to affect the Character or the World around them. The Arbiters should elaborate to the table why that is the case. Describe what the risk is and gesture at what failure might look like.
+### The Arbiters then decide whether the consequences of this action are more likely to affect the Character or the World around them. The Arbiters should elaborate to the table why that is the case. Describe what the risk is and gesture at what failure might look like.
 
 This decision will decide which die will count for which side when determining the result:
 
@@ -541,10 +541,10 @@ Rolls made with the Mood that you are overloaded with are made at Mood Advantage
 
 Rolls made with other Moods are made at Mood Disadvantage. This could cause you to Overload a different mood. The following rules also apply when choosing a different Mood:
 
-* Choosing a different Mood to act with will end the Overload regardless of who wins the roll. This should be represented and roleplayed in the fiction.
+*Choosing a different Mood to act with will end the Overload regardless of who wins the roll. This should be represented and roleplayed in the fiction.
 
-* If you win this roll, clear the checkboxes from the Mood that is no longer overloaded. Describe what it was like for your character to overcome in this way.
+*If you win this roll, clear the checkboxes from the Mood that is no longer overloaded. Describe what it was like for your character to overcome in this way.
 
-* If you lose this roll, put one of your sentiments at risk by marking the next unchecked checkbox. Describe which sentiment you are affecting and how it happens.
+*If you lose this roll, put one of your sentiments at risk by marking the next unchecked checkbox. Describe which sentiment you are affecting and how it happens.
 
-* If the roll has a difference of 0, follow the rules for both winning and losing the roll.
+*If the roll has a difference of 0, follow the rules for both winning and losing the roll.
