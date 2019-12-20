@@ -393,33 +393,33 @@ It seems like there are a lot of steps to go through here, but that’s because 
 
 
 
-Anything in the outline in italics happens every time you roll the dice. A hollow bullet means that step is optional.
+Anything in the outline not in italics happens every time you roll the dice. The italicized steps are optional.
 
 **Before Rolling:**
 
-* Player states their desired outcome
+- * Player states their desired outcome
 
-* Arbiters choose aspect and state what's most at risk 
+- * Arbiters choose aspect and state what's most at risk 
 
-* Choose Mood and increment Mood Level
+- * Choose Mood and increment Mood Level
 
-* Check details for Aspect Advantage or Disadvantage
+- * Check details for Aspect Advantage or Disadvantage
 
-◦	*Choose or create Relevant Skill*
+- Choose or create Relevant Skill*
 
-◦	*Risk Sentiment for Mood Advantage*
+- Risk Sentiment for Mood Advantage*
 
 **Roll the dice!**
 
-* Roll your Aspect Die and Mood Die
+- Roll your Aspect Die and Mood Die
 
 **After Rolling:**
 
-◦	*Get help. They roll a Mood and raise its level.*
+- Get help. They roll a Mood and raise its level.*
 
-* Determine the Winning Side and apply Details
-
-* Check for Mood Effects
+- * Determine the Winning Side and apply Details
+ 
+- * Check for Mood Effects
 
 
 
@@ -435,13 +435,13 @@ First, the Arbiters decide whether this action roll uses Body, Mind, or Heart. B
 
 
 
-### The Arbiters then decide whether the consequences of this action are more likely to affect the Character or the World around them. The Arbiters should elaborate to the table why that is the case. Describe what the risk is and gesture at what failure might look like.
+The Arbiters then decide whether the consequences of this action are more likely to affect the Character or the World around them. The Arbiters should elaborate to the table why that is the case. Describe what the risk is and gesture at what failure might look like.
 
 This decision will decide which die will count for which side when determining the result:
 
-* If the Character is at risk, the player playing that character will get the Aspect die and the Arbiters will get the Mood die. 
+- If the Character is at risk, the player playing that character will get the Aspect die and the Arbiters will get the Mood die. 
 
-* If the World is at risk, the player will get the Mood die and the Arbiters get the Aspect die.
+- If the World is at risk, the player will get the Mood die and the Arbiters get the Aspect die.
 
 Player chooses Mood and increments Mood Level
 
