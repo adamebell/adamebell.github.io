@@ -4,7 +4,7 @@ layout: post
 
 title: No Stone Unturned SRD
 
-tags: nostoneunturned srd tabletop rpg ttrpg
+tags: nostoneunturned
 
 summary: The full rules of our tabletop RPG, No Stone Unturned
 
@@ -31,7 +31,7 @@ Enough time has passed that many settlements have stabilized and are now looking
 
 
 
-######No Stone Unturned is a tabletop roleplaying game for 2-5 people. Each of you will play a character who will be going on adventures in the world. You will also be taking turns acting as Arbiters, describing the world and how it reacts to the adventurer’s actions.
+_No Stone Unturned_ is a tabletop roleplaying game for 2-5 people. Each of you will play a character who will be going on adventures in the world. You will also be taking turns acting as Arbiters, describing the world and how it reacts to the adventurer’s actions.
 
 The game is best played as a short campaign, with several game sessions lasting 2-4 hours. In the first session, you will be guided through the world building and character creation steps outlined in the following pages. After that, you’ll set out on your first adventure.
 
