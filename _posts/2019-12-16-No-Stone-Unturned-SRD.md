@@ -65,11 +65,11 @@ Building a world collaboratively
 
 Once you have discussed safety at the table, it’s time to start building the world that you will be playing in. The next couple of pages will walk you through several steps for this. 
 
-####1. Discuss Broadly
+#### 1. Discuss Broadly
 
 Start with a brief discussion on what this post-post apocalypse setting should look like. You should try to agree on a tone for your game, as well as how you will be framing scenes. Should it be more serious and weird like the world of Numenera? Or should it be zany like what is seen in Adventure Time, with scenes and logic that you would only find in a cartoon? Is it ruinous and filled with living or robotic remnants of what came before, like Horizon: Zero Dawn? Don't get too specific here, but try to think of some touch stones and get everybody on the same page.
 
-####2. Ban Story Elements
+#### 2. Ban Story Elements
 
 After a few minutes of discussion, you each get to ban something from the setting. Choose something you don't think would be interesting in this story and write it on a notecard within view of everybody. This is the first opportunity to codify the results of the tonal discussion, as this ban list must be followed.
 
@@ -81,7 +81,7 @@ This phase is more for restricting the lens of what the rest of the game can inc
 
 
 
-####3. Drawing the Settlement
+#### 3. Drawing the Settlement
 
 Next, you will collaboratively create the settlement that your characters live in and are adventuring into the world to find ways to improve. 
 
@@ -91,7 +91,7 @@ After a few turns of this, your group will start to get a better picture of how 
 
 Don’t put too much into just one statement. "The paved roads form a grid" works better than "The settlement is a city, with buildings on every block surrounded by paved roads in a grid shape". Focus on only one aspect of life at a time and let the other players branch off from there.
 
-####4. Define adventure scope and conditions
+#### 4. Define adventure scope and conditions
 
 Define the scope of the adventures and how far away the other locations in the world are from your settlement. Think about what the conditions of adventure are, and whether your characters are well equipped or struggling to get by. This will help color what the locations each player creates in the next step should look like as well as what your characters will have access to on their adventures.
 
@@ -117,13 +117,13 @@ Write down what you establish here so that everyone can access it later. The fol
 
 * Can you maintain contact with your home settlement while adventuring?
 
-####5. Create scarcities and abundances
+#### 5. Create scarcities and abundances
 
 Each player then names a resource that is important to your community. If you’re playing with less than 5 people, collectively establish a couple more resources until you have 5 total. Then, decide together which one of these resources is in abundance and mark the rest as scarcities. One of the players' main tasks will be to secure these resources from locations around them. Note these down on a notecard within view of everybody.
 
 Understand resources broadly here. At its simplest, this can mean food or water, but anything that a society needs and uses can be put forth here. Entertainment, camraderie, sunlight, agricultural variety, you name it. The point of this exercise is to define what’s important as well as what’s lacking, so if you say something like “competitive spirit” or “comfortable beds and couches” then those become a focus of the daily lives of your characters.
 
-####6. Author locations
+#### 6. Author locations
 
 Now that you have an idea of the settlement, it’s time to build out the surrounding area that your characters will be adventuring in. This is done by creating a map on the table using index cards. You will each privately be authoring two locations that will be out in the world somewhere.
 
@@ -139,19 +139,19 @@ Write what type of treasure or knowledge might be found there. Examples could be
 
 
 
-####7. Arrange locations in a map
+#### 7. Arrange locations in a map
 
 Mix up the created locations and place them face down in some arrangement on the table. This will be your map and represent where places are with respect to each other. If you want to have to pass through locations to get to others often, create a pattern to represent that and define the paths that you will need to take to get from card to card. You can also create a tightly packed grid so that it’s easy to get to any location card. Feel free to leave blank spots as well.
 
 Depending on the scope that your group defined the pattern you choose may make a big difference. If each card is defined to be a one day journey away from the next, then it's less important because the adventurers can go back and forth from the locations to home.  However, if it takes weeks to travel from place to place, adventuring far from home will be more stressful and taxing, as you will return home to allow your characters to relax and recover much less often.
 
-####8. Assign Danger and Reward Levels
+#### 8. Assign Danger and Reward Levels
 
 Now that you have a map of the surrounding area, you will roll dice for each card to see how dangerous and how rewarding the locations will be for adventurers.
 
 Roll 2 4-sided dice for each notecard. The first d4 will dictate how potent the listed danger is to the adventurers, and the second d4 will dictate how useful the listed reward will be to the party if it is found. Write these values on the back blank side of each card (e.g. D2 R4). See the "Danger and Reward Levels" section for a detailed explanation of what these values mean.
 
-####9. Character Creation
+#### 9. Character Creation
 
 Your world is now built. You should now have a good idea of where your characters live and what their lives are like. You also now have a map of locations that they will explore and investigate. The next pages walk you through creating the characters that you will play for the rest of the game.
 
@@ -161,15 +161,15 @@ Your world is now built. You should now have a good idea of where your character
 
 Your characters are made up of several different elements. Some of these elements will be decided now, and others will be discovered through play. Take a character sheet and fill out the fields as described below.
 
-####1. Choose a name
+#### 1. Choose a name
 
 Come up with a name for your character. You can either do this now, or wait until the end.
 
-####2. Define your pronouns and look
+#### 2. Define your pronouns and look
 
 Note your characters pronouns and describe what they look like. Are they human? What kind of clothes do they wear?
 
-####3. Pick three moods
+#### 3. Pick three moods
 
 Choose 3 moods your character is most often experiencing while they adventure. Examples can include Feckless, Angry, Joyous, Jealous, Ambivalent, or Curious, but really any moods that you're interested in roleplaying will do.
 
@@ -181,27 +181,27 @@ Thus, choose your d8 Mood as the one your character acts from when they’re tak
 
 These three moods are not every possible mood that your character can experience. There are three slots left open at character creation. During play, you can assign a new mood if the currently listed ones with don't fit how your character is feeling.
 
-####4. Assign your aspects
+#### 4. Assign your aspects
 
 Assign Body, Mind, and Heart to the d4, d6, and d8 based on how your character performs certain tasks. Body is used for feats of athleticism and might. Mind lends you the ability to think quickly and call on a breadth of knowledge. Heart represents your ability to connect with others and push through difficult situations.
 
 As mentioned in the Moods section, bigger doesn't always mean better. The aspect dice are the opposite: a bigger die typically means you're better at protecting yourself using that aspect, but potentially at the expense of your surroundings.
 
-####5. Invent three sentiments
+#### 5. Invent three sentiments
 
 Next is to choose three things that are important to your character. These could be prized possessions, relationships, ideals, beliefs, or anything else that your character holds dear. Try not to have more than one of each of these sentimental categories, e.g. one possession, one belief, and one relationship. If you want to forge a relationship with another character as one of your sentiments, it’s okay to leave a line here blank until everyone has introduced themselves.
 
 Mechanically, these sentiments will provide the ability to modify your dice rolls and results at the risk of them being lost to you or corrupted in some way by the world.
 
-####6. Write three skills
+#### 6. Write three skills
 
 Describe broadly 3 actions that your character is good at doing. Conversation, swordplay, climbing, parkour. Mark them down in the skills section as +/-1 skills. These can be leveled up later and new skills can be added, as described in the skills section.
 
-####7. Consider the rumors
+#### 7. Consider the rumors
 
 As a player, you authored 2 locations that now exist in the world. Your character has heard something about each of them. Consider how they have come across these rumors and what they’ve heard. They don’t know where exactly these locations are, but they would certainly recognize them upon arrival.
 
-####8. Introduce yourself
+#### 8. Introduce yourself
 
 Once everyone has finished making a character, go around the table and introduce yourselves. Describe how your character looks, what they’re good at, and what they care about.
 
@@ -269,7 +269,7 @@ If you continue playing after downtime, adventure to a new location. Either flip
 
 ### Details
 
-#### “Adding Details” in play
+####  “Adding Details” in play
 
 When players attempt things that are uncertain, they will make an action roll. The results of this will allow either the player or the Arbiters to add Details to the fiction. Details are just labels to succinctly explain a change in the fiction. For instance, if you were in a fight and your opponent pulled out a knife, you could end up with a detail, Stabbed.
 
@@ -281,7 +281,7 @@ A _scene detail_ is a detail that changes the scenery or your tactics, i.e., thi
 
 
 
-#### Positive vs. Negative Details
+####  Positive vs. Negative Details
 
 Details are typically negative or positive. Negative details are often harm details, which indicate damage to a character or item. Positive details are beneficial properties (e.g., Shiny and Sharp for a well-maintained sword).
 
@@ -395,7 +395,7 @@ It seems like there are a lot of steps to go through here, but that’s because 
 
 Anything in the outline not in italics happens every time you roll the dice. The italicized steps are optional.
 
-####Before Rolling:
+#### Before Rolling:
 
 - * Player states their desired outcome
 
@@ -409,11 +409,11 @@ Anything in the outline not in italics happens every time you roll the dice. The
 
 - Risk Sentiment for Mood Advantage*
 
-####Roll the dice!
+#### Roll the dice!
 
 - Roll your Aspect Die and Mood Die
 
-####After Rolling:
+#### After Rolling:
 
 - Get help. They roll a Mood and raise its level.*
 
