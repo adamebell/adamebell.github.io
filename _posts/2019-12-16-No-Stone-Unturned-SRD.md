@@ -12,7 +12,7 @@ image: https://img.itch.zone/aW1nLzE5Nzc3NTgucG5n/original/4%2FpXdG.png
 
 footnotes:
 
-  - 'hello world'
+
 ---
 
 ## Part 1: Introduction and Worldbuilding
@@ -425,15 +425,14 @@ Anything in the outline not in italics happens every time you roll the dice. The
 
 
 
-### Player states their desired outcome
+#### Player states their desired outcome
 
 State what your character is attempting to accomplish. This should be the logical follow through of the action that you were roleplaying when the Arbiters called for an action roll. Now is the time to flesh out what you want to have happen with this course of action. This gets everyone at the table on the same page with what's at stake and what success would look like.
 
-Arbiters choose Aspect and state what's most at risk 
+
+#### Arbiters choose Aspect and state what's most at risk 
 
 First, the Arbiters decide whether this action roll uses Body, Mind, or Heart. Body is used for feats of athleticism and might. Mind lends you the ability to think quickly and call on a breadth of knowledge. Heart represents your ability to connect with others and push through difficult situations. You will use the die associated with this Aspect when they roll.
-
-
 
 The Arbiters then decide whether the consequences of this action are more likely to affect the Character or the World around them. The Arbiters should elaborate to the table why that is the case. Describe what the risk is and gesture at what failure might look like.
 
@@ -443,7 +442,8 @@ This decision will decide which die will count for which side when determining t
 
 - If the World is at risk, the player will get the Mood die and the Arbiters get the Aspect die.
 
-Player chooses Mood and increments Mood Level
+
+#### Player chooses Mood and increments Mood Level
 
 The player rolling the action reflects on what mood their character is in at this time. If this is represented by one of the moods currently on your character sheet, choose that one. If not and there are still unfilled moods, add a new one to your sheet and choose that one. The die associated with this Mood is referred to as your Mood Die.
 
@@ -451,13 +451,15 @@ Next, mark one of the checkboxes next to the selected Mood on your sheet. These 
 
 You should be honest about how your character is feeling here! It can be tempting to select a mood based on which die you want to roll, but only do that if you can justify that particular mood by roleplaying as though your character is feeling that way.
 
-Check details for Aspect Advantage or Disadvantage
+
+#### Check details for Aspect Advantage or Disadvantage
 
 Check the details of your character and the scene. Anything that is working in your favor will provide Aspect Advantage, and anything that is working against you will provide Aspect Disadvantage. Instances of advantage and disadvantage will cancel each other out, but do not stack. 
 
 For both, you will roll your Aspect Die twice. With Advantage, you will choose the die. With disadvantage, the Arbiters choose.
 
-Choose or create Relevant Skill (optional)
+
+#### Choose or create Relevant Skill (optional)
 
 Choose one of the skills that you have listed on your character sheet that you can come up with a justification for why it applies here. Be creative! If you can convince the rest of the table that it makes sense to use a skill, you can use that skill. If there are still empty spaces on the sheet for skills, feel free to add a new one that would apply. New skills start with a modifier of 0, so it won't benefit you yet. 
 
@@ -465,19 +467,21 @@ Mark off the checkbox for Mind, Body, or Heart next to the chosen skill if it's 
 
 
 
-Risk Sentiment for Mood Advantage (optional)
+#### Risk Sentiment for Mood Advantage (optional)
 
 You can gain Mood Advantage by anteing one of your sentiments that are not yet lost. Mood advantage allows you to roll your Mood Die twice and choose which result to keep. Work with the Arbiters to factor in how your mood and sentiment led to the details that get added to the scene.
 
 If the Arbiters or an ally get to add negative details to the scene, you will also mark the next checkbox of that sentiment. This moves it to At Risk if it wasn’t already, or Lost if it it was already At Risk.
 
-Roll your Aspect and Mood dice
+
+#### Roll your Aspect and Mood dice
 
 Roll the dice given by your Mood and your Aspect and find the difference between the results.  Remember any Aspect or Mood Advantage or Disadvantage you received in the prior steps. If a mood is overloaded, you get advantage with that mood and disadvantage with all others.
 
 If you have Advantage or Disadvantage for your Mood or Aspect, roll two of that die. Advantage allows the player to choose which die to keep, whereas disadvantage allows the Arbiters to choose. 
 
-Get help. They roll a Mood and raise its level (optional).
+
+#### Get help. They roll a Mood and raise its level (optional).
 
 If another character is helping in the fiction, they can describe how they help and roll their Mood die. They raise their Mood level as well and you can use either die. This character checks for Mood Effects as described in the next step as well.
 
@@ -485,7 +489,7 @@ If you choose to take their die, describe how this moment strengthens your relat
 
 
 
-Determine the Winning Side and apply Details
+#### Determine the Winning Side and apply Details
 
 Once you and the Arbiters have resolved all advantages and disadvantages and chosen the final two dice that are involved, decide whether your chosen Skill Value is added or subtracted from the Aspect die.
 
@@ -499,7 +503,7 @@ The intersection of this table gives you that information as well:
 
 
 
-Results Table
+#### Results Table
 
 Use the row in the below table corresponding to the difference of the dice to add details:
 
@@ -517,7 +521,7 @@ Use the row in the below table corresponding to the difference of the dice to ad
 
 
 
-Check for Mood Effects
+#### Check for Mood Effects
 
 If the Mood Die’s result is less than your current Mood Level, and the Mood Level is past the Overload Threshold on the character sheet, you Overload that Mood. Describe what this looks like and follow the rules on the next page for an Overloaded Mood for future rolls. This also applies to a character that helped you.
 
@@ -529,7 +533,7 @@ The Winning Side will change the name of the mood to something more specific and
 
 
 
-Rules for an Overloaded Mood
+#### Rules for an Overloaded Mood
 
 A Mood gets overloaded when the Mood Level is above the Overload Threshold and the Mood Die rolls under the Mood Level. You and the Arbiters should take this into account when applying Details for that roll, and you should incorporate the over-use of that Mood in your roleplay while you remain overloaded.
 
@@ -541,10 +545,10 @@ Rolls made with the Mood that you are overloaded with are made at Mood Advantage
 
 Rolls made with other Moods are made at Mood Disadvantage. This could cause you to Overload a different mood. The following rules also apply when choosing a different Mood:
 
-*Choosing a different Mood to act with will end the Overload regardless of who wins the roll. This should be represented and roleplayed in the fiction.
+* Choosing a different Mood to act with will end the Overload regardless of who wins the roll. This should be represented and roleplayed in the fiction.
 
-*If you win this roll, clear the checkboxes from the Mood that is no longer overloaded. Describe what it was like for your character to overcome in this way.
+* If you win this roll, clear the checkboxes from the Mood that is no longer overloaded. Describe what it was like for your character to overcome in this way.
 
-*If you lose this roll, put one of your sentiments at risk by marking the next unchecked checkbox. Describe which sentiment you are affecting and how it happens.
+* If you lose this roll, put one of your sentiments at risk by marking the next unchecked checkbox. Describe which sentiment you are affecting and how it happens.
 
-*If the roll has a difference of 0, follow the rules for both winning and losing the roll.
+* If the roll has a difference of 0, follow the rules for both winning and losing the roll.
