@@ -3,7 +3,7 @@ layout: post
 title: What happened to this whole thing?
 tags: return rambling
 summary: I explain why I made a website and then never posted to it
-image: https://adambell.com/images/post2.jpg
+image: https://adamebell.com/images/post2.jpg
 footnotes:
 ---
 
