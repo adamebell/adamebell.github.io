@@ -2,7 +2,7 @@
 layout: post
 title: On Unfinished Projects
 tags: rambling
-summary: Here's a post about creative dead-ends
+summary: Here's a post about creative dead-ends written on my birthday
 image: https://adamebell.com/images/post3.jpg
 footnotes:
 ---
