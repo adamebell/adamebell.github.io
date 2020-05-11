@@ -23,7 +23,7 @@ Maybe one day I'll get around to making and publishing a video.
 
 I won't go into how many unfinished game designs I have, or how many unedited photos sit on my computer, the stack of books and video games I've started that tower above me, or the half-finished koji fermentation chamber in my closet. That sounds boring to read and mostly self-defeating. 
 
-I've come to accept that this is just the way my brain works, especially within the framework of capitalism that grips the world. It's hard to chase creative pursuits, keep a clean house, relax, get enough sleep, socialize, feed yourself, take care of the people around you, and work full time. 
+I've come to accept that this is just the way my brain works, especially within the framework of capitalism that grips the world. It's hard to chase creative pursuits, keep a clean house, relax, get enough sleep, socialize, feed yourself, and take care of the people around you when you have to spend so much of your waking hours justifying your existence in the world through your labor.
 
 ***
 
