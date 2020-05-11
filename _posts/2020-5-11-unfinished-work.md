@@ -7,7 +7,9 @@ image: https://adamebell.com/images/post3.jpg
 footnotes:
 ---
 
-The first real creative outlet I ever had was the video production work I did in high school. I loved it. I had a good group for it, but we all split off to different universities and never really picked up where we left off. In my first two years of college, I nearly added film as a double major with my physics program as a way to keep doing that. It seemed like too much work to juggle both of those programs, so I had to drop one of them. The pressures of a STEM-worshipping education system led me to stick with the physics degree, leaving the more enjoyable creative work idle by the wayside.
+The first real creative outlet I ever had was the video production work I did in high school. I loved it. I had a good group for it, but we all split off to different universities and never really picked up where we left off. 
+
+In my first two years of college, I nearly added film as a double major with my physics program as a way to keep doing that. It seemed like too much work to juggle both of those programs, so I had to drop one of them. The pressures of a STEM-worshipping education system led me to stick with the physics degree, leaving the more enjoyable creative work idle by the wayside.
 
 My desire to express myself through video never really went away, though. Every couple of months I get motivated for a few days to make a video of some sort. I'll start filming, often with the aid of my partner, and sit down to start editing. Then I find a bunch of things I don't like about what I'm putting together. I note down how I'll reshoot it to better suit what I want, and then I never actually return to it.
 
