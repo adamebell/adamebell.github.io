@@ -8,7 +8,7 @@ footnotes:
 ---
 
 
-this is the privacy policy for the cobwebs google slides app.
+this is the privacy policy for the cobwebs google slides app. The app is a simple script that will roll dice and randomly place them on the cobwebs playmat. This helps facilitate the online play of cobwebs, which relies on using a physical mat as a die drop to randomize certain aspects of the game.
 
 *What type of data is collected*
 No data is collected, the application just adds elements to your current slide.
